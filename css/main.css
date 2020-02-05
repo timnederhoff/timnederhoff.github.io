@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #212121;
+    color: #ffffff;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -14,21 +16,31 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #888;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-size: 6em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h1 > span {
+    color: #b1d234;
+}
+h2 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 > span {
+    color: #b1d234;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #ccc;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #ccc;
     font-size: .8em;
 }
