@@ -1,0 +1,21 @@
+- name: Testcafe
+  url: https://devexpress.github.io/testcafe/
+  tags:
+    - framework
+    - javascript
+    - typescript
+    - in-browser
+- name: Selenium Webdriver
+  url: https://selenium.dev/documentation/en/
+  tags:
+    - java
+    - javascript
+    - browser-driver
+- name: Protractor
+  url: http://www.protractortest.org/
+  tags:
+    - browser-driver
+    - framework
+    - javascript
+    - typescript
+- name:
