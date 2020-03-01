@@ -12,10 +12,9 @@
     - javascript
     - browser-driver
 - name: Protractor
-  url: http://www.protractortest.org/
+  url: https://www.protractortest.org/
   tags:
     - browser-driver
     - framework
     - javascript
     - typescript
-- name:
