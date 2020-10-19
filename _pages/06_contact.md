@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-#LinkedIn
+## [LinkedIn](https://www.linkedin.com/in/timnederhoff/)
 
-#Github
+## [Github](https://github.com/timnederhoff)
 
-#Twitter
+## [E-mail](mailto:info@timnederhoff.nl)
 
-#E-mail
+## [Medium](https://medium.com/@timnederhoff)

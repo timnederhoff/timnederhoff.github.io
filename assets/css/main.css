@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 60em;
     background-color: #212121;
     color: #ffffff;
 }
@@ -41,9 +41,16 @@ h2 {
     font-size: 3em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif', serif;
 }
+
 h2 > span {
     color: #b1d234;
 }
+
+h3 {
+    font-size: 1em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif', serif;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
