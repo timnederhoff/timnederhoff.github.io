@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bookmarks
+permalink: /bookmarks/
 ---
 
 **Testing Conferences:** [testingconferences.org](https://testingconferences.org/)  

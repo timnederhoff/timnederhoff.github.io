@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Community Contributions
+permalink: /contributions/
 ---
 
 My contributions to the community

@@ -2,3 +2,4 @@ name: Tim Nederhoff Test Automation
 markdown: kramdown
 exclude:
   - .idea
+include: ['_pages']

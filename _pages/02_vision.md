@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vision
+permalink: /vision/
 ---
 
 # Testflow 2.0

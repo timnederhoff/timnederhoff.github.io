@@ -7,18 +7,8 @@
 		</head>
 		<body>
 
-			<nav>
-	    		<ul>
-					<li><img src="/assets/images/tn-logo.svg" alt="" class="logo-menu"></li>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-		        	<li><a href="/contributions">Community Contributions</a></li>
-		        	<li><a href="/vision">Test Vision</a></li>
-		        	<li><a href="/blog">Blog</a></li>
-		        	<li><a href="/bookmarks">Bookmarks</a></li>
-		        	<li><a href="/contact">Contact</a></li>
-	    		</ul>
-			</nav>
+			{% include header.html %}
+
 			<div class="container">
 			
 			{{ content }}

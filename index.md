@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Tim Nederhoff Test Automation
 ---
 
 Tim Nederhoff Test Automation
