@@ -7,18 +7,18 @@
 		</head>
 		<body>
 
-			{% include header.html %}
-
 			<div class="container">
-			
-			{{ content }}
-			
+				{% include header.html %}
+				<div class="content">
+					{{ content }}
+				</div>
+				<footer id="footer">
+					<ul>
+						<li><a href="mailto:info@timnederhoff.nl">email</a></li>
+						<li><a href="https://github.com/timnederhoff">github.com/timnederhoff</a></li>
+					</ul>
+				</footer>
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:info@timnederhoff.nl">email</a></li>
-	        		<li><a href="https://github.com/timnederhoff">github.com/timnederhoff</a></li>
-				</ul>
-			</footer>
+
 		</body>
 	</html>

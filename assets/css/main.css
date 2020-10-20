@@ -1,9 +1,19 @@
 body {
-    margin: 60px auto;
+    margin: 0 auto;
     width: 60em;
     background-color: #212121;
     color: #ffffff;
 }
+
+.container {
+    position: relative;
+    min-height: 98vh;
+}
+
+.content {
+    padding-bottom: 2.5rem;
+}
+
 blockquote > p {
     font-style: italic;
 }
@@ -56,7 +66,11 @@ p {
     line-height: 1.4em;
     color: #ccc;
 }
-footer {
+
+#footer {
     border-top: 1px solid #ccc;
     font-size: .8em;
+    bottom: 0;
+    position: absolute;
+    width: 75em;
 }
